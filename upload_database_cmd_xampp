@@ -1,0 +1,5 @@
+//step one
+C:\xampp\mysql\bin
+
+//step two
+mysql -h localhost -u root nombrebd < C:\rutadel.sql
